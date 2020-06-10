@@ -1,0 +1,23 @@
+* {
+  font-family: arial;
+}
+header .container {
+  color: #aaa;
+  border-bottom: 1px solid gray;
+}
+#userenter .user {
+  background-color: #eee;
+  border: none;
+}
+.line {
+  height: 1px;
+  background-color: gray;
+}
+.form-control {
+  height: calc(1em + 0.75rem + 2px);
+}
+.output {
+  background-image: linear-gradient(#eee, #fff);
+  margin: 10px 0;
+  padding: 20px;
+}
